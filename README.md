@@ -37,7 +37,7 @@ O Rocketpay é um componente que simula o formulário de preenchimento de cartã
 
 ## 🔎 Link do Projeto
 
-
+https://rocketpay-explorer-lab-nu.vercel.app/
 
 ## 🔖 Layout
 
